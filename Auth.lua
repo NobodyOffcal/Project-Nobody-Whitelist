@@ -18,4 +18,9 @@ return
     "OGstinker024_Key_True",
     "OGstinker024_Hwid_Unknown",
    
+    "fromcattohugecat0274_Banned_False",
+    "fromcattohugecat0274_Rank_Buyer",
+    "fromcattohugecat0274_Key_True",
+    "fromcattohugecat0274_Hwid_Unknown",
+   
 }
