@@ -3,10 +3,17 @@
 return
 {
    
-    "bobloxvsnobody_Banned_False",
-    "bobloxvsnobody_Rank_Administrator",
-    "bobloxvsnobody_Key_True",
-    "bobloxvsnobody_Hwid_Unknown",
+    ["User"] = "bobloxvsnobody",
+    ["Banned"] = false,
+    ["Rank"] = "Administrator",
+    ["Key"] = true,
+    ["Hwid"] = "Unknown",
+   
+    ["User"] = "test",
+    ["Banned"] = false,
+    ["Rank"] = "Administrator",
+    ["Key"] = true,
+    ["Hwid"] = "Unknown",
    
     "val3ndccount_Banned_False",
     "val3ndccount_Rank_Buyer",
