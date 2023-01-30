@@ -1,4 +1,4 @@
---Simple Auth V1.5
+--Simple Auth V1.6
 
 return
 {
