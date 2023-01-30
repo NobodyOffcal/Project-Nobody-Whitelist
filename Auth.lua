@@ -2,8 +2,7 @@
 
 return
 {
-    ["User"] = 2,
-    
+
     ["User-1"] = "bobloxvsnobody",
     ["Banned-1"] = false,
     ["Rank-1"] = "Administrator",
