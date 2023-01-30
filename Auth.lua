@@ -2,18 +2,17 @@
 
 return
 {
+    ["User-1"] = "bobloxvsnobody",
+    ["Banned-1"] = false,
+    ["Rank-1"] = "Administrator",
+    ["Key-1"] = true,
+    ["Hwid-1"] = "Unknown",
    
-    ["User"] = "bobloxvsnobody",
-    ["Banned"] = false,
-    ["Rank"] = "Administrator",
-    ["Key"] = true,
-    ["Hwid"] = "Unknown",
-   
-    ["User"] = "test",
-    ["Banned"] = false,
-    ["Rank"] = "Administrator",
-    ["Key"] = true,
-    ["Hwid"] = "Unknown",
+    ["User-2"] = "test",
+    ["Banned-2"] = false,
+    ["Rank-2"] = "Administrator",
+    ["Key-2"] = true,
+    ["Hwid-2"] = "Unknown",
    
     "val3ndccount_Banned_False",
     "val3ndccount_Rank_Buyer",
