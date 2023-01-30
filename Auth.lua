@@ -4,9 +4,9 @@ return
 {
 
     ["User-1"] = "bobloxvsnobody",
-    ["Banned-1"] = false,
+    ["Banned-1"] = true,
     ["Rank-1"] = "Administrator",
-    ["Key-1"] = true,
+    ["Key-1"] = false,
     ["Hwid-1"] = "186EE260-1F7A-44F6-A4D7-9E1FBDB52DC3",
    
     ["User-2"] = "test",
