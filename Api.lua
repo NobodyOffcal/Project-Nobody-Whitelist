@@ -5,5 +5,6 @@ return
     
     ["Status"] = true,
     ["Version"] = "V5",
+    ["TotalPlayer"] = 1,
     
 }
